@@ -1,0 +1,17 @@
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\bin\Release\netcoreapp3.1\Rhein Kraan Keuring.exe
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\bin\Release\netcoreapp3.1\Rhein Kraan Keuring.deps.json
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\bin\Release\netcoreapp3.1\Rhein Kraan Keuring.runtimeconfig.json
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\bin\Release\netcoreapp3.1\Rhein Kraan Keuring.runtimeconfig.dev.json
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\bin\Release\netcoreapp3.1\Rhein Kraan Keuring.dll
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\bin\Release\netcoreapp3.1\Rhein Kraan Keuring.pdb
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\Rhein Kraan Keuring.csprojAssemblyReference.cache
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\Rhein Kraan Keuring_MarkupCompile.cache
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\Rhein Kraan Keuring_MarkupCompile.lref
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\Rhein Kraan Keuring.g.resources
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\Rhein Kraan Keuring.AssemblyInfoInputs.cache
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\Rhein Kraan Keuring.AssemblyInfo.cs
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\Rhein Kraan Keuring.dll
+C:\Users\itv-admin\source\repos\Rhein Kraan Keuring\Rhein Kraan Keuring\obj\Release\netcoreapp3.1\Rhein Kraan Keuring.pdb
